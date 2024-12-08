@@ -1,4 +1,4 @@
-Here is a Python program for text encryption:
+# Here is a Python program for text encryption:
 
 This program defines two functions: encrypt and decrypt. The encrypt function takes a text string and a shift value as input and returns the encrypted text. The decrypt function takes the encrypted text and the shift value as input and returns the decrypted text.
 
